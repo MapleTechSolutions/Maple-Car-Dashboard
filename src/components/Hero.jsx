@@ -8,8 +8,10 @@ function Hero() {
     console.log('Searching for:', searchQuery)
   }
 
+  const heroImg = '/Home_page_img.jpg'
+
   return (
-    <section className="hero" style={{ backgroundImage: 'url(/../../images/Home_page_img.jpg)' }}>
+    <section className="hero" style={{ backgroundImage: `url(${heroImg})` }}>
       <div className="hero-overlay"></div>
       <div className="hero-content">
         <div className="hero-text">

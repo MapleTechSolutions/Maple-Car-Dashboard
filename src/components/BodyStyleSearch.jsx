@@ -3,12 +3,12 @@ import './BodyStyleSearch.css'
 
 function BodyStyleSearch() {
   const bodyStyles = [
-    { name: 'Sedan', image: '/../../images/sedan.jpg' },
-    { name: 'Coupe', image: '/../../images/coupe.png' },
-    { name: 'Hatchback', image: '/../../images/Hatchback.jpg' },
-    { name: 'SUV', image: '/../../images/suv.jpg' },
-    { name: 'Minivan/Van', image: '/../../images/minivan.jpg' },
-    { name: 'Truck/Commercial', image: '/../../images/Truck.jpg' }
+    { name: 'Sedan', image: '/sedan.jpg' },
+    { name: 'Coupe', image: '/coupe.png' },
+    { name: 'Hatchback', image: '/Hatchback.jpg' },
+    { name: 'SUV', image: '/suv.jpg' },
+    { name: 'Minivan/Van', image: '/minivan.jpg' },
+    { name: 'Truck/Commercial', image: '/Truck.jpg' }
   ]
 
   return (

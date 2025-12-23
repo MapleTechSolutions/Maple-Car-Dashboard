@@ -6,17 +6,17 @@ function FeaturedCategories() {
     {
       id: 1,
       title: 'Used Inventory',
-      image: '/../../images/used_inventory.jpg',
+      image: '/used_inventory.jpg',
     },
     {
       id: 2,
       title: 'Trade Sell Estimate',
-      image: '/../../images/Trade_sell_estimate.jpg',
+      image: '/Trade_sell_estimate.jpg',
     },
     {
       id: 3,
       title: 'Apply Now',
-      image: '/../../images/Apply_now.jpg',
+      image: '/Apply_now.jpg',
     }
   ]
 
